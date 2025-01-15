@@ -1,2 +1,2 @@
-# organizing-teams
-Pluralsight course artifacts for Organizing Software Teams for Success
+# Organizing Software Teams for Success
+This repository includes artifacts for the Organizing Software Teams for Success Pluralsight course. 
